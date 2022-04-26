@@ -23,10 +23,10 @@
 
 ## Model 1
 ![model1](media/modelo1.PNG)
-[STL Model 1](STL/Model1.3mf)
+[STL Model 1](STL/Model1.stl)
 ## Model 2
 ![model2](media/modelo2.PNG)
-[STL Model 2](STL/Model2.3mf)
+[STL Model 2](STL/Model2.stl)
 
 
 # Sorce model files

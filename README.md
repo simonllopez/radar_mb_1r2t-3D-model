@@ -29,7 +29,7 @@
 [STL Model 2](STL/Model2.stl)
 
 
-# Sorce model files
+# Source Model Files
 
 ## Model 1
 [Link to Download Model 1](https://a360.co/38sA90o)

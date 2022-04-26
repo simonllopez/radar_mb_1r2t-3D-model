@@ -2,10 +2,10 @@
 
 # Images
 
-![](media/photo4.jpg)
-![](media/photo3.jpg)
-![](media/photo.jpg)
-![](media/photo2.jpg)
+![p1](media/photo4.JPG)
+![p2](media/photo3.JPG)
+![p3](media/photo.JPG)
+![p4](media/photo2.JPG)
 
 # Two Models
 
